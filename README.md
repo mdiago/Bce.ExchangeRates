@@ -6,16 +6,13 @@
 
 
     public void BajarCambios()
-        {  
+    {  
+         var rates = Manager.GetExchangeRates();
 
-            var rates = Manager.GetExchangeRates();
-
-            foreach (var rate in rates.Items)
-            {
-                // hacer lo que se desee
-            }
-                
-          
-        }
+         foreach (var rate in rates.Items)
+         {
+             // hacer lo que se desee
+         }            
+     }
 
 ```
