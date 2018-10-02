@@ -1,6 +1,6 @@
 # Bce.ExchangeRates: Cambios diarios de BCE
 
-Utilice esta biblioteca para leer los cambio publicados en el Banco Central Europeo.
+Utilice esta biblioteca para leer los cambios publicados en el Banco Central Europeo.
 
 ```C#
 // A incluir:           
