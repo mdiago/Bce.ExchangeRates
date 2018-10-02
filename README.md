@@ -1,1 +1,3 @@
-# Bce.ExchangeRates
+# Bce.ExchangeRates: Cambios diarios de BCE
+
+
