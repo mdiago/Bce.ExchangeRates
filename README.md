@@ -1,6 +1,6 @@
 # Bce.ExchangeRates: Cambios diarios de BCE
 
-Utilice esta biblioteca para leer los cambios publicados en el Banco Central Europeo.
+Utilice esta biblioteca para leer los cambios publicados en el Banco Central Europeo. Todos los días habiles el BCE publica en su web los cambios oficiales de las divisas más importantes. 
 
 ```C#
 // A incluir:           
