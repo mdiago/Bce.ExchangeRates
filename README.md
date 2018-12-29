@@ -4,7 +4,7 @@ Utilice esta biblioteca para leer los cambios publicados en el Banco Central Eur
 
 ```C#
 // A incluir:           
-/using Bce.ExchangeRates.Net;
+// using Bce.ExchangeRates.Net;
 
 
     public void BajarCambios()
